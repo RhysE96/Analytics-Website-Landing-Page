@@ -6,9 +6,10 @@ Live Version: https://rhyse96.github.io/Analytics-Website-Landing-Page/
 
 Here is a screencapture of the entire coded site(also see the mobile screenshot below):
 
-![alt text](https://github.com/RhysE96/Analytics-Website-Landing-Page/blob/main/Screenshot/website-screen-capture.png)
+![alt text](https://github.com/RhysE96/Analytics-Website-Landing-Page/blob/main/Screenshots/website-screen-capture.png)
 
 
 Mobile view screencapture: 
 
-![alt text](https://github.com/RhysE96/Analytics-Website-Landing-Page/blob/main/Screenshot/mobile-screen-capture.png)
+![alt text](https://github.com/RhysE96/Analytics-Website-Landing-Page/blob/main/Screenshots/mobile-screen-capture.png)
+
